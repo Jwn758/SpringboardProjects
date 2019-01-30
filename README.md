@@ -13,18 +13,18 @@ Welcome to my data science portfolio! This repository contains my data science m
 * API Exercises: Quandl Stock Project
 
 ## Exploratory Data Analysis
-* EDA Project 1: Human Body Temperature Project
-* EDA Project 2: Racial Discrimination in US Job Market Project
-* EDA Project 3: Recommendations for Reducing Hospital Readmissions Project
-* SQL with Mode Analytics Exercises: Investing a Drop in Yammer User Engagement Project
+* EDA Project 1: Human Body Temperature Project (In Progress)
+* EDA Project 2: Racial Discrimination in US Job Market Project (In Progress)
+* EDA Project 3: Recommendations for Reducing Hospital Readmissions Project (In Progress)
+* SQL with Mode Analytics Exercises: Investing a Drop in Yammer User Engagement Project (In Progress)
 
 ## Machine Learning
-* Linear Regression with Boston Housing Dataset: Boston Housing Price Prediction
-* Classification and Logistic Regression: Human Gender Prediction on Heights & Weights
-* Text Classification with Naive Bayes: Basic Text Classification Project
-* Customer Segmentation using Clustering: Basic Text Classification Project
+* Linear Regression with Boston Housing Dataset: Boston Housing Price Prediction (In Progress)
+* Classification and Logistic Regression: Human Gender Prediction on Heights & Weights (In Progress)
+* Text Classification with Naive Bayes: Basic Text Classification Project (In Progress)
+* Customer Segmentation using Clustering: Basic Text Classification Project (In Progress)
 
 ## Advance Machine Learning Topics
-* Building a Recommendation Engine: User Engagement Project
-* Time Series Analysis: Rider Retention Prediction PRoject
+* Building a Recommendation Engine: User Engagement Project (In Progress)
+* Time Series Analysis: Rider Retention Prediction PRoject (In Progress)
 
