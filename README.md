@@ -13,7 +13,7 @@ Welcome to my data science portfolio! This repository contains my data science m
 * API Exercises: Quandl Stock Project
 
 ## Exploratory Data Analysis
-* EDA Project 1: Human Body Temperature Project (In Progress)
+* EDA Project 1: Human Body Temperature Project
 * EDA Project 2: Racial Discrimination in US Job Market Project (In Progress)
 * EDA Project 3: Recommendations for Reducing Hospital Readmissions Project (In Progress)
 
