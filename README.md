@@ -16,7 +16,6 @@ Welcome to my data science portfolio! This repository contains my data science m
 * EDA Project 1: Human Body Temperature Project (In Progress)
 * EDA Project 2: Racial Discrimination in US Job Market Project (In Progress)
 * EDA Project 3: Recommendations for Reducing Hospital Readmissions Project (In Progress)
-* SQL with Mode Analytics Exercises: Investing a Drop in Yammer User Engagement Project (In Progress)
 
 ## Machine Learning
 * Linear Regression with Boston Housing Dataset: Boston Housing Price Prediction (In Progress)
