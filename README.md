@@ -14,7 +14,7 @@ Welcome to my data science portfolio! This repository contains my data science m
 
 ## Exploratory Data Analysis
 * Human Body Temperature Project
-* Racial Discrimination in US Job Market Project (In Progress)
+* Racial Discrimination in US Job Market Project
 * Recommendations for Reducing Hospital Readmissions Project (In Progress)
 
 ## Machine Learning
