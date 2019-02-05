@@ -25,5 +25,5 @@ Welcome to my data science portfolio! This repository contains my data science m
 
 ## Advance Machine Learning Topics
 * Building a Recommendation Engine: User Engagement Project (In Progress)
-* Time Series Analysis: Rider Retention Prediction PRoject (In Progress)
+* Time Series Analysis: Rider Retention Prediction Project (In Progress)
 
