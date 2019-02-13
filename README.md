@@ -23,7 +23,7 @@ Welcome to my data science portfolio! This repository contains my data science m
 * Text Classification with Naive Bayes: Basic Text Classification Project (In Progress)
 * Customer Segmentation using Clustering: Basic Text Classification Project (In Progress)
 
-## Advance Machine Learning Topics
+## Advanced Machine Learning Topics
 * Building a Recommendation Engine: User Engagement Project (In Progress)
 * Time Series Analysis: Rider Retention Prediction Project (In Progress)
 
