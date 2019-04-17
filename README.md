@@ -20,8 +20,8 @@ Welcome to my data science portfolio! This repository contains my data science m
 ## Machine Learning
 * Linear Regression with Boston Housing Dataset: Boston Housing Price Prediction (In Progress)
 * Classification and Logistic Regression: Human Gender Prediction on Heights & Weights
-* Text Classification with Naive Bayes: Basic Text Classification Project (In Progress)
-* Customer Segmentation using Clustering: Basic Text Classification Project (In Progress)
+* Text Classification with Naive Bayes: Basic Text Classification Project
+* Customer Segmentation using Clustering: Basic Text Classification Project
 
 ## Advanced Machine Learning Topics
 * Building a Recommendation Engine: User Engagement Project (In Progress)
