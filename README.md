@@ -5,7 +5,7 @@ Welcome to my data science portfolio! This repository contains my data science m
 
 ## Capstone Projects
 * Capstone 1: Predicting Likelihood of a Term Deposit with Bank's Marketing Data
-* Capstone 2: (Still TBD) - Predicting Likelihood of Purchasing Auto Insurance in Mexico
+* Capstone 2: Building a Recommendation System for DJ Mixes (tracks longer than 10 mins) using both content-based and collaborative filtering methods on data scraped from 1001Tracklists.com
 
 ## Data Cleaning / Data Wrangling
 * JSON Exercises: World Bank Project
