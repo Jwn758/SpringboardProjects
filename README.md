@@ -15,10 +15,10 @@ Welcome to my data science portfolio! This repository contains my data science m
 ## Exploratory Data Analysis
 * Human Body Temperature Project
 * Racial Discrimination in US Job Market Project
-* Recommendations for Reducing Hospital Readmissions Project (In Progress)
+* Recommendations for Reducing Hospital Readmissions Project
 
 ## Machine Learning
-* Linear Regression with Boston Housing Dataset: Boston Housing Price Prediction (In Progress)
+* Linear Regression with Boston Housing Dataset: Boston Housing Price Prediction 
 * Classification and Logistic Regression: Human Gender Prediction on Heights & Weights
 * Text Classification with Naive Bayes: Basic Text Classification Project
 * Customer Segmentation using Clustering: Basic Text Classification Project
