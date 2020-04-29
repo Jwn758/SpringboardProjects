@@ -1,11 +1,7 @@
-# What does this Repo contain?
-Mini-Projects and Capstone Projects in Python
+# Welcome to my Data Science Portfolio! This repo will showcase some of the mini-projects and capstone projects I worked on.
 
-Welcome to my data science portfolio! This repository contains my data science mini-projects and capstone projects. If you have any questions, please feel free to reach out to me at jin_no@live.com
-
-After completing my final capstone project (located here: https://github.com/Jwn758/SpringboardProjects/blob/master/CapstoneProject2/Capstone%20Project%202_FinalReport.pdf), I wanted to expand on the insights I uncovered and built out a web app that utilizes a recommendation engine. Looking for front-end developers to partner with, feel free to reach out if you're interested! 
-
-
+Edit February 2020:
+After completing my final capstone project (located here: https://github.com/Jwn758/SpringboardProjects/blob/master/CapstoneProject2/Capstone%20Project%202_FinalReport.pdf), I wanted to expand on the insights I uncovered and built out a web app that utilizes a recommendation engine. Looking for front-end developers to partner with, feel free to reach out at jin_no@live.com if you're interested! 
 
 ## Capstone Projects
 * Capstone 1: Predicting Likelihood of a Term Deposit with Bank's Marketing Data
