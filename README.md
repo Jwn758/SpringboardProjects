@@ -24,6 +24,6 @@ After completing my final capstone project (located here: https://github.com/Jwn
 * Customer Segmentation using Clustering: Basic Text Classification Project
 
 ## Advanced Machine Learning Topics
-* Building a Recommendation Engine: User Project (In Progress)
+* Building a Recommendation Engine: User Engagement Project (In Progress)
 * Time Series Analysis: Rider Retention Prediction Project (In Progress)
 
